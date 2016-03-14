@@ -1,0 +1,13 @@
+Package: rnaseqApp
+Title: Contain various functions for rnaseq analysis
+Version: 0.1
+Authors@R: c(person("Simon", "Pelletier", role = c("aut", "cre"),
+                  email = "simon.pelletier3@mail.mcgill.ca"))
+Author: Simon Pelletier [aut, cre],
+Maintainer: Simon Pelletier <simon.pelletier3@mail.mcgill.ca>
+Description: Contain various functions for rnaseq analysis
+Depends: R (>= 3.2.3)
+LazyData: true
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-03-14 03:44:23 UTC; simonpelletier

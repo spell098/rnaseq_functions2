@@ -1,0 +1,2 @@
+Query ERROR: caught BioMart::Exception: non-BioMart die(): 
+syntax error at line 1, column 14, byte 14 at /localsw/lib/perl5/site_perl/5.14.2/x86_64-linux-thread-multi/XML/Parser.pm line 187.
