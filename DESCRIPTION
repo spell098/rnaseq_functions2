@@ -1,4 +1,4 @@
-Package: rnaseqApp
+Package: rnaseqApp2
 Title: Contain various functions for rnaseq analysis
 Version: 0.1
 Authors@R: c(person("Simon", "Pelletier", role = c("aut", "cre"),
